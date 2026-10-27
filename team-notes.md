@@ -1,1 +1,1 @@
-The best branching strategy is: undecided.
+The best branching strategy is: gavno
